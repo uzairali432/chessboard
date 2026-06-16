@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chessboard.css
 
 Simple single-page demo showing a chessboard layout using CSS and a small amount of JavaScript.
@@ -36,3 +37,6 @@ python -m http.server 8000
 ## Contributing
 
 Feel free to open issues or send pull requests with improvements.
+=======
+chessboard app using HTML CSS JAVASCRIPT
+>>>>>>> cb404ec789fab9686535d8a9c3830c62f815be1c
